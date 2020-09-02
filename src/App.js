@@ -4,7 +4,7 @@ import './App.scss';
 function App() {
   return (
     <div className="App">
-      <div class="can-focus">
+      <div class="can-focus" tabindex="1">
         Transparent Inside Border
       </div>
     </div>
